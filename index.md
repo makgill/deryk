@@ -11,10 +11,10 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <table>
 <tbody><tr>
 <td>
-<a href="https://thecryptofeed.net/articles/"><img src="/thecryptofeed.jpg" alt="click for my articles on the crypto feed" style="width:25px;height:25px">the crypto feed</a>
+<a href="https://thecryptofeed.net/articles/"><img src="/thecryptofeed.jpg" alt="click for my articles on the crypto feed" style="width:25px;height:25px">About (Personal)</a>
 </td>
 <td>
-<a href="https://www.forbes.com/sites/ktorpey"><img src="/forbesicon.jpg" alt="click for my articles on Forbes" style="width:25px;height:25px">Forbes</a>
+<a href="https://www.forbes.com/sites/ktorpey"><img src="/forbesicon.jpg" alt="click for my articles on Forbes" style="width:25px;height:25px">About (Site)</a>
 </td>
 </tr>
 <tr>
