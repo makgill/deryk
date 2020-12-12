@@ -62,7 +62,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="http://motherboard.vice.com/author/KyleTorpey"><img src="/logos/motherboard.jpeg" alt="click for my articles on VICE Motherboard" style="width:25px;height:25px">VICE Motherboard</a>
 </td>
 <td>
-<a href="https://www.coingecko.com/buzz/author/kyletorpey"><img src="/coingecko.png" alt="click for my articles on CoinGecko Buzz" style="width:25px;height:25px">CoinGecko Buzz</a>
+<a href="https://www.coingecko.com/buzz/author/kyletorpey"><img src="https://neustadt.fr/img/guestbook.gif" alt="click for my articles on CoinGecko Buzz" style="width:25px;height:25px;margin-right:2px;">Guestbook</a>
 </td>
 </tr>
 
