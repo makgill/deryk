@@ -69,3 +69,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 
 </tbody></table>
+
+## projects:
+
+[Bitcoin Scaling History Database](/)
