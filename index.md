@@ -27,7 +27,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 <tr>
 <td>
-<a href="https://decrypt.co/author/kyletorpey"><img src="/decrypt.jpg" alt="click for my articles on Decrypt" style="width:25px;height:25px">People I like</a>
+<a href="https://decrypt.co/author/kyletorpey"><img src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="click for my articles on Decrypt" style="width:25px;height:25px">People I like</a>
 </td>
 <td>
 <a href="https://cointelegraph.com/authors/kyle-torpey"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px;margin-right:2px;">Stream</a>
