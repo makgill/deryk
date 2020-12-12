@@ -1,5 +1,6 @@
 ---
 layout: home
+align: left
 ---
 
 <h1 class="name glitch" data-text="Deryk Makgill">Deryk Makgill</h1>
