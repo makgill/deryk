@@ -23,3 +23,9 @@ align: left
 - [About](/) me and other personal information
 - "I think the [pool man](/) is trying to kill me..."
 - [People](/) whose work I follow 
+
+## Site Information
+
+- [About](/) the site and my methods and philosophy of online publishing
+- [Privacy] policy and [terms], which I've tried to make interesting to read.
+
