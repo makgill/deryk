@@ -27,5 +27,5 @@ align: left
 ## Site Information
 
 - [About](/) the site and my methods and philosophy of online publishing
-- [Privacy] policy and [terms], which I've tried to make interesting to read.
+- [Privacy](/) policy and [terms](/), which I've tried to make interesting to read.
 
