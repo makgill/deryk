@@ -14,7 +14,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="https://thecryptofeed.net/articles/"><img src="https://pbs.twimg.com/profile_images/1336054060915564549/fQ4fEdOq_400x400.jpg" alt="me" style="width:25px;height:25px;margin-right:2px;">About</a>
 </td>
 <td>
-<a href="https://www.forbes.com/sites/ktorpey"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Clipart.png" alt="click for my articles on Forbes" style="width:25px;height:25px;margin-right:2px;">Site</a>
+<a href="https://www.forbes.com/sites/ktorpey"><img src="https://cdn.emojidex.com/emoji/seal/old_personal_computer.png?1417135578" alt="click for my articles on Forbes" style="width:25px;height:25px;margin-right:2px;">Site</a>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 <tr>
 <td>
-<a href="https://cryptonews.com/editors/kyle-torpey/"><img src="/cryptonews.jpg" alt="click for my articles on Cryptonews" style="width:25px;height:25px">Personal Library</a>
+<a href="https://cryptonews.com/editors/kyle-torpey/"><img src="https://hacdias.com/book.gif" alt="click for my articles on Cryptonews" style="width:25px;height:25px">Personal library</a>
 </td>
 <td>
 <a href="https://www.americanbanker.com/author/kyle-torpey-ab3656"><img src="/ab.jpg" alt="click for my articles on American Banker" style="width:25px;height:25px">American Banker</a>
