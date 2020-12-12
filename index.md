@@ -70,7 +70,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 
 ## projects:
 
-[Bitcoin Scaling History Database](/)
+<img src="https://www.xycinews.com/wp-content/uploads/2020/05/IllSharpCod-max-1mb.gif" height="14" alt=""> [Bitcoin Scaling History Database](/)
 
 ## contact/follow me via:
 
