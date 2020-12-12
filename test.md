@@ -15,6 +15,7 @@ align: left
 
 - [Database](/) of allegations of censorship, legal threats and cyber attacks against efforts to scale Bitcoin
 - [Bitcoin notebook](/) of marginalia on many topics
+- [Response] to the claim that I *was* behind the [@bitcoin](https://twitter.com/bitcoin) Twitter handle <small>30 August 2019</small>
 
 ## Personal Links
 
