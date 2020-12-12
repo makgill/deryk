@@ -70,6 +70,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 
 ## writing: 
 
+Most of my writing is currently unvailable on the site. It will be added again soon.<br>
 [Bitcoin notebook](/)
 
 
