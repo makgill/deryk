@@ -8,6 +8,8 @@ I am a writer and researcher who also invests and builds businesses on the side.
 
 ## pages on this website:
 
+<img class="wide" src=" https://neustadt.fr/retro-stuff/img/under-construction.gif" alt="Under construction sign">
+
 <table>
 <tbody><tr>
 <td>
@@ -19,10 +21,10 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 <tr>
 <td>
-<a href="https://www.longhash.com/en/author/1169"><img src="/longhash.png" alt="click for my articles on Longhash" style="width:25px;height:25px">Longhash</a>
+<a href="https://www.longhash.com/en/author/1169"><img src="/longhash.png" alt="click for my articles on Longhash" style="width:25px;height:25px">Stream</a>
 </td>
 <td>
-<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="/logos/bitcoinmagazine.png" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px">Bitcoin Magazine</a>
+<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="/logos/bitcoinmagazine.png" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px">Speaking</a>
 </td>
 </tr>
 <tr>
