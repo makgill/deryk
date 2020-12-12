@@ -22,7 +22,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="https://www.longhash.com/en/author/1169">Support</a>
 </td>
 <td>
-<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px;margin-right:2px;">Speaking</a>
+<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px;margin-right:2px;">Subscribe</a>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="https://cryptonews.com/editors/kyle-torpey/"><img src="https://hacdias.com/book.gif" alt="click for my articles on Cryptonews" style="width:25px;height:25px">Personal library</a>
 </td>
 <td>
-<a href="https://www.americanbanker.com/author/kyle-torpey-ab3656"><img src="/ab.jpg" alt="click for my articles on American Banker" style="width:25px;height:25px">American Banker</a>
+<a href="https://www.americanbanker.com/author/kyle-torpey-ab3656"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px;margin-right:2px;">Speaking</a>
 </td>
 </tr>
 <tr>
