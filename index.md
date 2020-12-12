@@ -29,7 +29,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 <tr>
 <td>
-<a href="https://decrypt.co/author/kyletorpey"><img src="/decrypt.jpg" alt="click for my articles on Decrypt" style="width:25px;height:25px">Decrypt</a>
+<a href="https://decrypt.co/author/kyletorpey"><img src="/decrypt.jpg" alt="click for my articles on Decrypt" style="width:25px;height:25px">People I like</a>
 </td>
 <td>
 <a href="https://cointelegraph.com/authors/kyle-torpey"><img src="/cointelegraph.jpg" alt="click for my articles on Cointelegraph" style="width:25px;height:25px">Cointelegraph</a>
