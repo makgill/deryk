@@ -73,3 +73,8 @@ I am a writer and researcher who also invests and builds businesses on the side.
 ## projects:
 
 [Bitcoin Scaling History Database](/)
+
+## contact/follow me via:
+
+<div>email: deryk@makgill.ch<br>
+<a href="http://twitter.com/wakgill"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" alt="click to follow me on twitter" style="width:25px;height:25px">@wakgill</a></div>
