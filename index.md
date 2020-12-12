@@ -19,10 +19,10 @@ I am a writer and researcher who also invests and builds businesses on the side.
 </tr>
 <tr>
 <td>
-<a href="https://www.longhash.com/en/author/1169"><img src="/longhash.png" alt="click for my articles on Longhash" style="width:25px;height:25px">Stream</a>
+<a href="https://www.longhash.com/en/author/1169"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Longhash" style="width:25px;height:25px;margin-right:2px;">Stream</a>
 </td>
 <td>
-<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="/logos/bitcoinmagazine.png" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px">Speaking</a>
+<a href="https://bitcoinmagazine.com/authors/kyle-torpey"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Bitcoin Magazine" style="width:25px;height:25px;margin-right:2px;">Speaking</a>
 </td>
 </tr>
 <tr>
