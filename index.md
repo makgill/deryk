@@ -14,7 +14,7 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="https://thecryptofeed.net/articles/"><img src="https://pbs.twimg.com/profile_images/1336054060915564549/fQ4fEdOq_400x400.jpg" alt="me" style="width:25px;height:25px;margin-right:2px;">About</a>
 </td>
 <td>
-<a href="https://www.forbes.com/sites/ktorpey"><img src="/forbesicon.jpg" alt="click for my articles on Forbes" style="width:25px;height:25px">Site</a>
+<a href="https://www.forbes.com/sites/ktorpey"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Clipart.png" alt="click for my articles on Forbes" style="width:25px;height:25px;margin-right:2px;">Site</a>
 </td>
 </tr>
 <tr>
