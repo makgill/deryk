@@ -46,12 +46,12 @@ I am a writer and researcher who also invests and builds businesses on the side.
 <a href="https://coinjournal.net/author/kyle-torpey/"><img src="/coinjournal.png" alt="click for my articles on Coin Journal" style="width:25px;height:25px">Coin Journal</a>
 </td>
 <td>
-<a href="https://bravenewcoin.com/authors/kyle-torpey/"><img src="/bnc.jpg" alt="click for my articles on Brave New Coin" style="width:25px;height:25px">Brave New Coin</a>
+<a href="https://bravenewcoin.com/authors/kyle-torpey/"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Brave New Coin" style="width:25px;height:25px">Essays</a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://cryptoinsider.21mil.com/author/kyle-torpey/"><img src="/cryptoinsider.jpg" alt="click for my articles on Crypto Insider" style="width:25px;height:25px">Crypto Insider</a>
+<a href="https://cryptoinsider.21mil.com/author/kyle-torpey/"><img src="https://www.mvta.com/cms-files/size-768x768/construction_clipart_rta75xx8c.jpg" alt="click for my articles on Crypto Insider" style="width:25px;height:25px">Book reviews</a>
 </td>
 <td>
 <a href="http://insidebitcoins.com/news/author/kyletorpey"><img src="/logos/insidebitcoins.jpeg" alt="click for my articles on Inside Bitcoins" style="width:25px;height:25px">Inside Bitcoins</a>
