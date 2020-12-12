@@ -21,3 +21,4 @@ align: left
 ## Personal Links
 
 - [About](/) me and other personal information
+- "I think the [pool man](/) is trying to kill me..."
