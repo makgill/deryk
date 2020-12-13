@@ -22,6 +22,7 @@ width: 100%
 - [Response](/) to the claim that I *was* behind the [@bitcoin](https://twitter.com/bitcoin) Twitter handle <small>30 August 2019</small>
 - Speculative timeline for [Satoshi Nakamoto](/) being involved in the early online gambling industry
 - [People](/) in Bitcoin to follow and [people](/) to ignore
+- [Humor archive](/) of crazy, stupid, and hilarious things Bitcoiners have done or said
 
 ## Crypto/Cypherpunks
 
