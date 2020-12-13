@@ -19,7 +19,7 @@ width: 100%
 - [Response](/) to the claim that I *was* behind the [@bitcoin](https://twitter.com/bitcoin) Twitter handle <small>30 August 2019</small>
 - Speculative timeline for [Satoshi Nakamoto](/) being involved in the early online gambling industry
 
-## Crypto
+## Crypto/Cypherpunks
 
 - [Timothy C. May](/) (RIP) quotes on topics from Anarchy to Welfarism.
 
