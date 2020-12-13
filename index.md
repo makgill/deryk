@@ -15,6 +15,8 @@ width: 100%
 
 ---
 
+*Many links are currently broken during the rebuilding of my site.*
+
 ## Bitcoin Related
 
 - [Database](/) of allegations of censorship, legal threats and cyber attacks against efforts to scale Bitcoin
