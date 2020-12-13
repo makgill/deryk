@@ -10,6 +10,9 @@ width: 100%
     max-width: 300px;
 "></p>
 
+  
+  <marquee behavior="scroll" direction="left">Here is some scrolling text... right to left!</marquee>
+
 ---
 
 ## Bitcoin Related
