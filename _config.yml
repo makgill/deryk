@@ -1,6 +1,7 @@
-# Collections
-
 collections:
   pages:
     output: true
-    permalink /:path/
+    permalink: /:path/
+
+
+markdown: kramdown
