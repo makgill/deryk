@@ -4,7 +4,7 @@ permalink: about
 background: https://i.pinimg.com/originals/0f/88/3e/0f883e6f5db348671c1e26a7dfd2e5f3.gif
 ---
 
-# About 
+# About Deryk Makgill
 
 
 <img style="max-width:600px;" src="https://derykmakgill.github.io/had/assets/img/deryk-makgill-censored.jpg" alt="I'm the guy in the middle...">
