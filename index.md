@@ -33,6 +33,7 @@ width: 100%
 - [About](/) me and other personal information
 - "I think the [pool man](/) is trying to kill me..."
 - [People](/) whose work I follow 
+- [Twitter](/) and why we should all [say "no" to platforms.](/)
 
 ## Site Information
 
