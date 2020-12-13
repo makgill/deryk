@@ -25,7 +25,7 @@ width: 100%
 
 ## Personal Links
 
-- [Support] my writing with Bitcoin or fiat (to be used to buy Bitcoin)
+- [Support](/) my writing with Bitcoin or fiat (to be used to buy Bitcoin)
 - [About](/) me and other personal information
 - "I think the [pool man](/) is trying to kill me..."
 - [People](/) whose work I follow 
