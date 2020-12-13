@@ -11,7 +11,7 @@ width: 100%
 "></p>
 
   
-  <marquee behavior="scroll" direction="left">Here is some scrolling text... right to left!</marquee>
+  <marquee behavior="scroll" direction="left">"You see, but you do not observe!"</marquee>
 
 ---
 
