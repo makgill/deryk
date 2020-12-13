@@ -10,8 +10,6 @@ width: 100%
     max-width: 300px;
 "></p>
 
-  
-  <marquee behavior="scroll" direction="left">"You see, but you do not observe!"</marquee>
 
 ---
 
