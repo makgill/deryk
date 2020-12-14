@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-# Latest
-
-
-When I'm not being a hacker, I'm often a writer. Here are some of the screeds I've uttered over the years.
-
 ## Bitcoin and Cypherpunk Antropology
 
 ### [The Cathedral and the Bazaar](/) (1997-2001)
