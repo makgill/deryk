@@ -6,9 +6,6 @@ title: Home
 # Latest
 
 
-
-<img src="/deryk/assets/img/makgill-censored.jpg" align="right" alt="" width="128" height="131">
-
 When I'm not being a hacker, I'm often a writer. Here are some of the screeds I've uttered over the years.
 
 ## Bitcoin and Cypherpunk Antropology
