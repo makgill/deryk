@@ -6,7 +6,7 @@ permalink: /bitcoin/humour
 
 # Bitcoin Humour File
 
-<p class="notebox">Originally posted on 15 December 2020. Updated frequently.</p> 
+<p class="notebox">Originally posted on 15 December 2020. Updated frequently. Idea borrowed from <a href="http://milk.com/wall-o-shame/">Milk.com's Wall'o'Shame</a>.</p> 
 
 *"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer*
 
