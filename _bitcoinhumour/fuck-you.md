@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: "Could I **** you first?"
+title: "Could I f*** you first?"
 source: Twitter
 sourcedate: 17 March 2019
 archive: https://archive.is/CHh86
