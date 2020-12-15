@@ -9,6 +9,8 @@ permalink: /bitcoin/humour
 
 <p class="notebox">Originally posted on 15 December 2020. Updated frequently.</p> 
 
+## WTF is this?
+
 This is my attempt to prevent the kind of watered-down academic history of Bitcoin that will no-doubt be written by chronicling content and events that are so shameful they're funny.
 
 ### [It only took 37 seconds for two bitcoin 'celebs' to start fighting on a cruise ship](https://makgill.github.io/bitcoin-shame/coinsbank)
