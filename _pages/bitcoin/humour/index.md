@@ -44,7 +44,7 @@ What happens when Bitcoin's own "Milton" finally decides to burn the building do
       
    </a></h3>
  
- <p class="p-content"> {{ bitcoinhumour.content }}
+ <p class="p-content"> {{ bitcoinhumour.excerpt }}
  </p>
   
 {% endif %}
