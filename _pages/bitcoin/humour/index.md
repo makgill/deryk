@@ -40,10 +40,8 @@ What happens when Bitcoin's own "Milton" finally decides to burn the building do
  
  
  <h2 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
-   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ bitcoinhumour.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ bitcoinhumour.date | date: date_to_rfc822 }}
-      </time>
+  {{ bitcoinhumour.title }}
+      
    </a></h5>
 
 {% if bitcoinhumour.reply %}
