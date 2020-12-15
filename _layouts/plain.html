@@ -19,17 +19,32 @@
   {%- include sidebar1.html -%}
 
 <div id="Content">
+{%- if page.title -%}
+    <h1 class="page-title"> 
+      
+      {{ page.title }}</h1>
+  {%- endif -%}
+
+{%- if page.sourcedate -%}
+  
+<p>
+    <span class="source-date"> 
+      
+      {{ page.sourcedate }}</span>--<em><span class="source">{{ page.source }}</span></em> <span class="archive">(<a href="{{ page.archive }}">original link</a>)</span>
+</p>
+<hr>
+  {%- endif -%}
+
 
 {{ content }}
 
 </div>
 
-<!--
-Local Variables:
-compile-command: "(cd ~/WWW; upload index.html)"
-End:
--->
-
-
+{%- if page.sourcedate -%}
+<hr>
+<p>Bitcoin Humour File Edited by Deryk Makgill.</p>
+  {%- endif -%}	
+		
+	
 
 </body></html>
