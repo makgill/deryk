@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bitcoin Humour File
 permalink: /bitcoin/humour
 ---
