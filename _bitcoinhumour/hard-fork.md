@@ -15,7 +15,7 @@ Deep into a rambling, multi-day tweet bender, Wright has taken it upon himself t
 
 But before we get too deep in the crypto weeds, some background is in order. 
 
-Those of you whose brains have yet to be rendered functionally useless by cryptocurrency-related inanity may remember that last year Bitcoin itself experienced a so-called hard fork. The split was the result of a disagreement regarding the best way to scale a digital currency on its way to becoming bogged down by increased transactions and associated high fees, and gave birth to Bitcoin Cash (BCH) in the process. 
+Those of you whose brains have yet to be rendered functionally useless by cryptocurrency-related [inanity](https://makgill.github.io/deryk/bitcoin/humour/coinsbank/) may remember that last year Bitcoin itself experienced a so-called hard fork. The split was the result of a disagreement regarding the best way to scale a digital currency on its way to becoming bogged down by increased transactions and associated high fees, and gave birth to Bitcoin Cash (BCH) in the process. 
 
 Bitcoin Cash is now poised to undergo its own Athena moment, scheduled for Nov. 15, with a totally new coin leaping forth from its progenitor's head. More accurately, the fork will likely result in the creation of two separate coins — each updated from BCH in different ways — as the fight essentially boils down to what specific changes will be made to Bitcoin Cash (not whether to make changes at all). 
 
