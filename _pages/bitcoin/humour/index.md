@@ -24,7 +24,7 @@ This is my attempt to prevent the kind of watered-down academic history of Bitco
  <h3 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
   {{ bitcoinhumour.title }}
       
-   </a></h3>
+   </a> ( {{ bitcoinhumour.sourcedate }} </h3>
  
  <p class="p-content"> {{ bitcoinhumour.excerpt }}
  </p>
