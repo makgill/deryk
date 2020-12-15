@@ -2,6 +2,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
+  bitcoin-humor-file:
+    output: true
+    permalink: /:path/
 
 markdown: kramdown
