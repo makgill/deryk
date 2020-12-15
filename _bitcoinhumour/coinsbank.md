@@ -4,6 +4,7 @@ title: It only took 37 seconds for two bitcoin 'celebs' to start fighting on a c
 source: Mashable
 sourcedate: 13 September 2018
 archive: https://archive.is/pITDw
+excerpt: A ridiculous man in a cowboy hat and a debate at a pool party on a hot Barcelona day. What could go wrong?
 ---
 
 
