@@ -4,4 +4,4 @@ title: Bitcoin Humour File
 permalink: /bitcoin/humour
 ---
 
-# Bitcoin Humour File
+<h1 class="c1">Bitcoin Humour File</h1>
