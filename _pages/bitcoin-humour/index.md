@@ -17,7 +17,7 @@ A ridiculous man in a cowboy hat and a debate at a pool party on a hot Barcelona
 
 ### [Bitcoin Cash evangelist accused of joyriding stolen armored vehicle in Virginia](https://makgill.github.io/bitcoin-shame/tank)
 
-The man accused of stealing a military armored vehicle in Virginia on Tuesday and joyriding it 60 miles before being arrested is passionate about more than just living his life a quarter-mile at a time. A quick glance at his Twitter account also shows him to be a Bitcoin Cash evangelist.
+Of course it was Bitcoin Cash.
 
 ### [You will now discover me when pissed off](https://makgill.github.io/bitcoin-shame/abc)
 
