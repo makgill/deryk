@@ -39,28 +39,15 @@ What happens when Bitcoin's own "Milton" finally decides to burn the building do
 <div class="h-entry note post-stub">
  
  
- <h2 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
+ <h3 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
   {{ bitcoinhumour.title }}
       
-   </a></h5>
-
-{% if bitcoinhumour.reply %}
- <span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em;">↳ In reply to <a href="{{ bitcoinhumour.reply | relative_url }}" class="u-in-reply-to h-cite">{{ bitcoinhumour.reply }}</a></span>
-  {% endif %}
+   </a></h3>
  
  <p class="p-content"> {{ bitcoinhumour.content }}
  </p>
- 
-   {% if bitcoinhumour.image %}
-      <div class="post-image">
-        <a href="{{ bitcoinhumour.url | relative_url }}" style="
-    text-decoration: none;
-">
-          <img src="{{ bitcoinhumour.image | relative_url }}" alt="{{ bitcoinhumour.alt }}">
-          
-  </a>
-       </div>  
-      {% endif %}
+  
+{% endif %}
  
 </div>
 
