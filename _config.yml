@@ -7,3 +7,5 @@ collections:
     permalink: /:path/
 
 markdown: kramdown
+
+permalink: pretty
