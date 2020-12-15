@@ -9,7 +9,7 @@ title: Home
 
 Probably the most popular thing I've written. It's in demand in a lot of different forms, so I've given it its own subsite. 
 
-### [Shame File](/) (1998)
+### [Bitcoin Humour File](/) (1998)
 
 My original February 1998 call to the community, issued immediately after the Netscape breakthrough, to start using the term open source'. This is the beginning that OSI and the mainstreaming of Linux built on.
 
