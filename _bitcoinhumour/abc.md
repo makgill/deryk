@@ -7,6 +7,7 @@ archive: https://archive.is/LG58q
 excerpt: Craig Wright is...uh...angry
 ---
 
+```
 If you want a war…
 
 I will do 2 years of no trade. Nothing.
@@ -29,3 +30,4 @@ And so. You could have had proof. Your choice.
 
 Fuck you,
 Craig
+```
