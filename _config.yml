@@ -2,9 +2,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  bitcoinhumor:
+  bitcoinhumour:
     output: true
-    permalink: /:path/
+    permalink: bitcoin/humour/:path/
 
 markdown: kramdown
 
