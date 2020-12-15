@@ -46,8 +46,6 @@ What happens when Bitcoin's own "Milton" finally decides to burn the building do
  
  <p class="p-content"> {{ bitcoinhumour.excerpt }}
  </p>
-  
-{% endif %}
  
 </div>
 
