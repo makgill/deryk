@@ -5,8 +5,7 @@ permalink: /bitcoin/humour
 ---
 
 <h1 class="c1" style="color:red;">Bitcoin Humour File</h1>
-*"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer
-updated*
+*"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer*
 
 ### [It only took 37 seconds for two bitcoin 'celebs' to start fighting on a cruise ship](https://makgill.github.io/bitcoin-shame/coinsbank)
 
