@@ -5,6 +5,7 @@ title: It only took 37 seconds for two bitcoin 'celebs' to start fighting on a c
 source: Mashable
 sourcedate: 13 September 2018
 archive: https://archive.is/pITDw
+permalink: bitcoin-humor-file/coinsbank
 ---
 
 
