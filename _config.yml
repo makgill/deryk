@@ -2,7 +2,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  bitcoin-humor-file:
+  bitcoinhumor:
     output: true
     permalink: /:path/
 
