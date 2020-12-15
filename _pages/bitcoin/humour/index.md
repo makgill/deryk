@@ -30,3 +30,40 @@ How drunk was Craig Wright when he wrote this?
 ### [Please send the contact information for your legal council](https://makgill.github.io/bitcoin-shame/please-send-contact)
 
 What happens when Bitcoin's own "Milton" finally decides to burn the building down.
+
+
+
+{% assign replies = site.bitcoinhumour | sort: 'date' | reverse %}
+{% for bitcoinhumour in bitcoinhumour %}
+
+<div class="h-entry note post-stub">
+ 
+ 
+ <h2 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
+   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ bitcoinhumour.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ bitcoinhumours.date | date: date_to_rfc822 }}
+      </time>
+   </a></h5>
+
+{% if bitcoinhumours.reply %}
+ <span class="reply-context" style="display:block;background-color: #f5f5f5;text-indent: 1em;">↳ In reply to <a href="{{ bitcoinhumour.reply | relative_url }}" class="u-in-reply-to h-cite">{{ bitcoinhumour.reply }}</a></span>
+  {% endif %}
+ 
+ <p class="p-content"> {{ replies.content }}
+ </p>
+ 
+   {% if bitcoinhumour.image %}
+      <div class="post-image">
+        <a href="{{ bitcoinhumour.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ bitcoinhumour.image | relative_url }}" alt="{{ bitcoinhumour.alt }}">
+          
+  </a>
+       </div>  
+      {% endif %}
+ 
+</div>
+
+{% endfor %}  
