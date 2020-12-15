@@ -1,6 +1,9 @@
 ---
 layout: plain
 title: Bitcoin Cash evangelist accused of joyriding stolen armored vehicle in Virginia
+source: Mashable
+sourcedate: 06 June 2018
+archive: https://archive.is/74MyF
 ---
 
 
