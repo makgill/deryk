@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: coinsbank
 title: It only took 37 seconds for two bitcoin 'celebs' to start fighting on a cruise ship
 source: Mashable
 sourcedate: 13 September 2018
