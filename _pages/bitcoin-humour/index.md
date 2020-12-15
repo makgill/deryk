@@ -17,7 +17,7 @@ A ridiculous man in a cowboy hat and a debate at a pool party on a hot Barcelona
 
 The man accused of stealing a military armored vehicle in Virginia on Tuesday and joyriding it 60 miles before being arrested is passionate about more than just living his life a quarter-mile at a time. A quick glance at his Twitter account also shows him to be a Bitcoin Cash evangelist.
 
-### [ABC](https://makgill.github.io/bitcoin-shame/abc)
+### [You will now discover me when pissed off](https://makgill.github.io/bitcoin-shame/abc)
 
 How drunk was Craig Wright when he wrote this?
 
