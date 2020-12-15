@@ -5,7 +5,7 @@ permalink: /bitcoin/humour
 ---
 
 <h1 class="c1" style="color:red;">Bitcoin Humour File</h1>
-*"Hell is other websmiths." — Jean-Paul Sartre,
+*"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer
 updated*
 
 ## Such that even the *press* had a laugh
