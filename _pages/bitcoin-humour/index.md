@@ -5,9 +5,10 @@ permalink: /bitcoin/humour
 ---
 
 <h1 class="c1" style="color:red;">Bitcoin Humour File</h1>
+<p class="notebox">Originally posted on 15 December 2020. Updated frequently.</p> 
+
 *"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer*
 
-<p class="notebox">Originally posted on 15 December 2020. Updated frequently.</p> 
 
 ## WTF is this?
 
