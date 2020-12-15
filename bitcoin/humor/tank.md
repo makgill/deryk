@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: plain
 title: Bitcoin Cash evangelist accused of joyriding stolen armored vehicle in Virginia
 ---
 
