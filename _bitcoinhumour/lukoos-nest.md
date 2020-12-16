@@ -6,7 +6,7 @@ excerpt: An anthology of the funniest (wackiest) quotes from Bitcoin Core develo
 
 This "anthology" is not meant to shame Luke Dashjr or otherwise incite any actions towards him whatsoever. As far as I can see, Luke is actually a nice person, a good father, and an excellent coder (despite having insane economic ideas about Bitcoin). People should not be punished for wrong-think. Learn to laugh instead at these quotes with good charity towards the possibility of nuance that doesn't come through.
 
-*Seriously. Don't harass people for wrong opinions. Lighten up a bit. Ingore them, laugh, or simply appreciate them for the good things they do despite them.*
+*Seriously. Don't harass people for wrong opinions. Lighten up a bit. Ignore them, laugh, or simply appreciate those people for the good things they do despite their bad ideas.*
 
 ---
 
