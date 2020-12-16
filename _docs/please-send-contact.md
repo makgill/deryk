@@ -5,6 +5,8 @@ source: email
 sourcedate: 19 January 2019
 archive: https://archive.is/bGpns
 excerpt: When Bitcoin's own "Milton" (Office Space) finally breaks and decides to burn down the building.
+categories: bitcoin
+location: bh
 ---
 
 <pre>
