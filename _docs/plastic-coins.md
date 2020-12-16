@@ -5,6 +5,8 @@ source: BitcoinTalk
 sourcedate: 29 January 2018
 archive: https://archive.is/muzdE
 excerpt: If it looks like you could insert it into an arcade game, it's probably not Bitcoin.
+categories: bitcoin
+location: bh
 ---
 
 Okay...so I have a funny Bitcoin story for you which I heard from a friend.
