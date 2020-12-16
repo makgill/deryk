@@ -260,7 +260,7 @@ as you are ready to proceed.
 All the best,<br>
 Mircea Popescu
 
-
+---
 
 In short : Bitcoin is a sovereign. Accepting this matter of fact is a sine qua non prerequisite for playing. No exceptions.
 
