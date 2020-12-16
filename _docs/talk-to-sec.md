@@ -5,6 +5,8 @@ archive: https://archive.is/27BiA
 source: Trilema
 sourcedate: 14 February 2014
 excerpt: Mircea Popescu is mostly insane but this is an all-time great reply to a nosey bureaucrat trying to punch above her pay (loot) grade.
+categories: bitcoin
+location: bh
 ---
 
 
