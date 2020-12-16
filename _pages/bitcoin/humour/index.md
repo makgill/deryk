@@ -8,7 +8,7 @@ permalink: /bitcoin/humour
 
 <p class="notebox">Originally posted on 15 December 2020. Updated frequently. Idea borrowed from <a href="http://milk.com/wall-o-shame/">Milk.com's Wall'o'Shame</a>.</p> 
 
-*"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — Luke Dashjr, Bitcoin Core Developer*
+*"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — [Luke Dashjr](https://makgill.github.io/deryk/bitcoin/humour/lukoos-nest/), Bitcoin Core Developer*
 
 
 ## WTF is this?
