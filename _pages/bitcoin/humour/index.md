@@ -19,24 +19,25 @@ This is my attempt to prevent the kind of watered-down academic history of Bitco
 
 Share the content, [send me](https://makgill.github.io/deryk/contact) new material to save, or [tip me](https://makgill.github.io/deryk/support) in Bitcoin. Thank you!
 
-{% assign bitcoinhumour = site.bitcoinhumour | sort: 'date' | reverse %}
-{% for bitcoinhumour in bitcoinhumour %}
+{% assign docs = site.docs | sort: 'date' | reverse %}
+{% for docs in docs %}
+  {% if docs.location == 'bh' %}
 
 <div class="h-entry note post-stub">
  
  
- <h3 class="post-stub"><a href="{{ bitcoinhumour.url | prepend: site.baseurl }}">
-  {{ bitcoinhumour.title }}
+ <h3 class="post-stub"><a href="{{ docs.url | prepend: site.baseurl }}">
+  {{ docs.title }}
 
 
 
-   </a>      {%- if bitcoinhumour.sourcedate -%} ({{ bitcoinhumour.sourcedate }}) {%- endif -%} </h3>
+   </a>      {%- if docs.sourcedate -%} ({{ docs.sourcedate }}) {%- endif -%} </h3>
   
- <p class="p-content"> {{ bitcoinhumour.excerpt }}
+ <p class="p-content"> {{ docs.excerpt }}
  </p>
  
 </div>
-
+  {% endif %}  
 {% endfor %}  
 
 
