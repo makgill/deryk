@@ -5,6 +5,8 @@ archive: https://web.archive.org/web/20130903171448/http://www.reddit.com/r/Bitc
 source: reddit
 sourcedate: 30 August 2013
 excerpt: Well that was bleak...
+categories: bitcoin
+location: bh
 ---
 
 I am sending this message from the year 2025. Things are looking bleak here, and some of you will carry blood on your hands.
