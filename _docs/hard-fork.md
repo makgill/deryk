@@ -5,6 +5,8 @@ source: Mashable
 sourcedate: 13 November 2018
 archive: https://archive.is/TERjn
 excerpt: Nothing says the future of finance like a good old-fashioned meltdown...
+categories: bitcoin
+location: bh
 ---
 
 Nothing says the future of finance like a good old-fashioned meltdown, and the upcoming bitcoin cash hard fork has that in spades. This is thanks, in no small part, to a man named Craig Wright. 
