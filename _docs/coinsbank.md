@@ -5,6 +5,8 @@ source: Mashable
 sourcedate: 13 September 2018
 archive: https://archive.is/pITDw
 excerpt: A ridiculous man in a cowboy hat and a debate at a pool party on a hot Barcelona day. What could go wrong?
+categories: bitcoin
+location: bh
 ---
 
 
