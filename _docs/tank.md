@@ -4,7 +4,9 @@ title: Bitcoin Cash evangelist accused of joyriding stolen armored vehicle in Vi
 source: Mashable
 sourcedate: 06 June 2018
 archive: https://archive.is/74MyF
-excerpt: Of course it was Bitcoin Cash. 
+excerpt: Of course it was Bitcoin Cash.
+categories: bitcoin
+location: bh
 ---
 
 Of course it was Bitcoin Cash. 
