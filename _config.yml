@@ -5,7 +5,10 @@ collections:
   bitcoinhumour:
     output: true
     permalink: /bitcoin/humour/:path/
-
+  docs:
+    output: true
+    permalink: /:categories/:path/
+    
 markdown: kramdown
 
 permalink: pretty
