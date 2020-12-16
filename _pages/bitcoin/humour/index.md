@@ -26,8 +26,8 @@ This is my attempt to prevent the kind of watered-down academic history of Bitco
       {%- if bitcoinhumour.sourcedate -%}
 
 
-   </a> ({{ bitcoinhumour.sourcedate }}) </h3>
-   {%- endif -%}
+   </a> ({{ bitcoinhumour.sourcedate }}) {%- endif -%} </h3>
+  
  <p class="p-content"> {{ bitcoinhumour.excerpt }}
  </p>
  
