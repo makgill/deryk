@@ -4,6 +4,8 @@ title: Support
 permalink: support
 ---
 
+# Support
+
 You can support my work in Bitcoin, Bitcoin Cash, or Bitcoin SV.
 
 BTC: 17MEahERxZH6pwWy4z7wWBZvH4rRnv3F7i
