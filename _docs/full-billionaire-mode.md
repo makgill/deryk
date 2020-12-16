@@ -5,6 +5,8 @@ archive: https://archive.is/St1ee
 source: Twitter
 sourcedate: 29 June 2018
 excerpt: You never go full billionaire mode.
+categories: bitcoin
+location: bh
 ---
 
 >This is it.
