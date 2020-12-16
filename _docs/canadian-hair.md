@@ -5,6 +5,8 @@ source: CourtListener
 sourcedate: 13 January 2020
 archive: https://www.courtlistener.com/recap/gov.uscourts.flsd.521536/gov.uscourts.flsd.521536.488.17.pdf
 excerpt: Hahahahahaha
+categories: bitcoin
+location: bh
 ---
 
 BY MR ROCHE:
