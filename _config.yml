@@ -7,7 +7,7 @@ collections:
     permalink: /bitcoin/humour/:path/
   docs:
     output: true
-    permalink: /docs/:categories/:path/
+    permalink: /:categories/docs/:path/
     
 markdown: kramdown
 
