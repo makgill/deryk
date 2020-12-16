@@ -19,4 +19,4 @@ excerpt: You never go full billionaire mode.
 >
 >You think I cannot choose what I prove, to whom…. watch
 >
->— Dr Craig S Wright (@ProfFaustus) June 29, 2018
+>— Dr Craig S Wright (@ProfFaustus) [June 29, 2018](https://archive.is/St1ee)
