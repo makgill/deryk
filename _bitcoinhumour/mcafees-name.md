@@ -3,7 +3,8 @@ layout: plain
 title: "McAfee's Name"
 source: Twitter
 sourcedate: 14 December 2017
-archive: The crazy, dangerous, debauched and possible untrue life of John McAfee.
+excerpt: The crazy, dangerous, debauched and possible untrue life of John McAfee.
+archive: https://archive.is/NaUby
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my followers does not like the name &quot;McAfee&quot;. His DM, and my response explainng why I do not give a shit: <a href="https://t.co/gtJX98MX9J">pic.twitter.com/gtJX98MX9J</a></p>&mdash; John McAfee (@officialmcafee) <a href="https://twitter.com/officialmcafee/status/941509222730272768?ref_src=twsrc%5Etfw">December 15, 2017</a></blockquote>
