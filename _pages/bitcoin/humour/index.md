@@ -6,7 +6,7 @@ permalink: /bitcoin/humour
 
 # Bitcoin Humour File
 
-<p class="notebox">Originally posted on 15 December 2020. Updated frequently. Idea borrowed from <a href="http://milk.com/wall-o-shame/">Milk.com's Wall'o'Shame</a>.</p> 
+<p class="notebox">Originally posted on 15 December 2020. Updated frequently. Idea borrowed from <a href="http://milk.com/wall-o-shame/">Milk.com's Wall'o'Shame</a>. Support the work <a href="https://makgill.github.io/deryk/support">here.</a></p> 
 
 *"Usury is still immoral and slavery is still moral or immoral in the same conditions as it always was." — [Luke Dashjr](https://makgill.github.io/deryk/bitcoin/humour/lukoos-nest/), Bitcoin Core Developer*
 
@@ -14,6 +14,10 @@ permalink: /bitcoin/humour
 ## WTF is this?
 
 This is my attempt to prevent the kind of watered-down academic history of Bitcoin that will no-doubt be written by chronicling content and events that are so shameful, wacky or awesome that they're funny.
+
+## How do I support it?
+
+Share the content, [send me](https://makgill.github.io/deryk/contact) new material to save, or [tip me](https://makgill.github.io/deryk/support) in Bitcoin. Thank you!
 
 {% assign bitcoinhumour = site.bitcoinhumour | sort: 'date' | reverse %}
 {% for bitcoinhumour in bitcoinhumour %}
