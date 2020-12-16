@@ -7,7 +7,6 @@ title: Home
 
 ### [Bitcoin Humour File](https://makgill.github.io/deryk/bitcoin/humour) (1998)
 
-My original February 1998 call to the community, issued immediately after the Netscape breakthrough, to start using the term open source'. This is the beginning that OSI and the mainstreaming of Linux built on.
-
+My attempt to prevent the kind of watered-down academic history of Bitcoin that will no-doubt be written by chronicling content and events that are so shameful, wacky or awesome that they’re funny.
 
 
