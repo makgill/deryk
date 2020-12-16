@@ -7,10 +7,10 @@ sourcedate: 14 February 2014
 excerpt: Mircea Popescu is mostly insane but this is an all-time great reply to a nosey bureaucrat trying to punch above her pay (loot) grade.
 ---
 
-```
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "Waxman, Daphna A."waxman
-Date: Fri, February 14, 2014 1:20 pm
+
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "Waxman, Daphna A."waxman<br>
+Date: Fri, February 14, 2014 1:20 pm<br>
 To:officeoffice
 
 Dear Mr. Popescu
@@ -24,45 +24,49 @@ shares of SatoshiDICE on MPEx.
 I would appreciate if you would contact me directly by email or telephone. 
 Please see my contact information below.
 
-Thank you,
+Thank you,<br>
 Daphna Waxman
 
-Daphna Waxman
-Senior Attorney
-U.S. Securities and Exchange Commission
-3 World Financial Center, Ste 4300
-New York, NY 10281
-(212) 336-1012
+Daphna Waxman<br>
+Senior Attorney<br>
+U.S. Securities and Exchange Commission<br>
+3 World Financial Center, Ste 4300<br>
+New York, NY 10281<br>
+(212) 336-1012<br>
 Waxmand@second.govi
 
+---
 
-Subject: Re: Message for Mircea Popescu from U.S. SEC
-From: "'officeoffice
-Date: Fri, February 14, 2014 2:10 pm
+Subject: Re: Message for Mircea Popescu from U.S. SEC<br>
+From: "'officeoffice<br>
+Date: Fri, February 14, 2014 2:10 pm<br>
 To: "Waxman, Daphna A."waxman
 
 Go right ahead.
 
-All the best,
+All the best,<br>
 Mircea Popescu
 
+---
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "Waxman, Daphna A."waxman
-Date: Fri, February 14, 2014 2:15 pm
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "Waxman, Daphna A."waxman<br>
+Date: Fri, February 14, 2014 2:15 pm<br>
 To:officeoffice
+
 Dear Mr. Popescu
 
 Would it be possible to schedule a time to speak via telephone?
 
-Thank you,
+Thank you,<br>
 Daphna
 
+---
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "'officeoffice
-Date: Fri, February 14, 2014 2:20 pm
-To: "Waxman, Daphna A."waxman
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "'officeoffice<br>
+Date: Fri, February 14, 2014 2:20 pm<br>
+To: "Waxman, Daphna A."waxman<br>
 
 The best we can come to if you absolutely need real-time communication would 
 be #bitcoin-assets on Freenode. (You can connect via http://webchat.freenode.net/?channels=bitcoin-assets 
@@ -71,13 +75,14 @@ in your browser if you do not have a client). I'm usually around.
 Bar that, there's nothing a call can carry that a letter wouldn't carry as
 well, is there ?
 
-All the best,
+All the best,<br>
 Mircea Popescu
 
+----
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "Waxman, Daphna A."waxman
-Date: Fri, February 14, 2014 2:31 pm
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "Waxman, Daphna A."waxman<br>
+Date: Fri, February 14, 2014 2:31 pm<br>
 To:officeoffice
 
 I'm unable to connect to freenode so email will have to do for now.
@@ -90,13 +95,15 @@ shares, payment of dividends etc.
 
 Does MPEx have such documents and would you be willing to provide them to the staff?
 
-Thank you,
+Thank you,<br>
 Daphna Waxman
 
+---
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "'officeoffice
-Date: Fri, February 14, 2014 2:45 pm
+
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "'officeoffice<br>
+Date: Fri, February 14, 2014 2:45 pm<br>
 To: "Waxman, Daphna A."waxman
 
 In general, MPEx maintains a vast outreach program intended to help members of the 
@@ -113,13 +120,14 @@ So far all we have is an email address, something which is spoofed on a regular 
 I get numerous notices of various sorts each week purporting to come from all sorts of banks
 and other institutions I've never had any relationship with, for instance.
 
-All the best,
+All the best,<br>
 Mircea Popescu
 
+---
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "Waxman, Daphna A."waxman
-Date: Fri, February 14, 2014 2:50 pm
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "Waxman, Daphna A."waxman<br>
+Date: Fri, February 14, 2014 2:50 pm<br>
 To:officeoffice
 
 I'm happy to provide any additional information that would verify who I am and my 
@@ -127,10 +135,11 @@ association. Also, feel free to search my name on the Internet and call my offic
 phone number to listen to my voice mail message or the SEC's front desk at (212-336-1100) 
 and ask to be connected to my line.
 
+---
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "'officeoffice
-Date: Sat, February 15, 2014 2:37 am
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "'officeoffice<br>
+Date: Sat, February 15, 2014 2:37 am<br>
 To: "Waxman, Daphna A."waxman
 
 Perhaps we misunderstand each other. Should you wish to establish your authority on the 
@@ -183,30 +192,30 @@ else and nothing short of the SEC's ultimate relevancy and importance in the Bit
 far I am not particularly impressed. Let us work together to improve upon this shaky basis if at all 
 possible.
 
-All the best,
+All the best,<br>
 Mircea Popescu
+
+* References :
+- exposing the Pirate scam : <br>
+https://bitcointalk.org/index.php?topic=50822.msg854918#msg854918 <br>
+- exposing the Patrick Harnett set of scams : <br>
+https://bitcointalk.org/index.php?topic=121915.0 <br>
+(unfortunately the Australian equivalent of the US SEC has been uniquely <br>
+unhelpful in this matter so far). <br>
+- exposing the Labcoin set of scams : <br>
+http://trilema.com/2013/the-anatomy-of-a-scam/ <br>
+- general informative bulletins as warranted by market conditions : <br>
+https://bitcointalk.org/index.php?topic=106391.0 ; <br>
+https://bitcointalk.org/index.php?topic=435263.0 <br>
+and we'll stop at that for the sake of brevity. 
 
 ---
 
-* References :
-- exposing the Pirate scam :
-https://bitcointalk.org/index.php?topic=50822.msg854918#msg854918
-- exposing the Patrick Harnett set of scams :
-https://bitcointalk.org/index.php?topic=121915.0
-(unfortunately the Australian equivalent of the US SEC has been uniquely
-unhelpful in this matter so far).
-- exposing the Labcoin set of scams :
-http://trilema.com/2013/the-anatomy-of-a-scam/
-- general informative bulletins as warranted by market conditions :
-https://bitcointalk.org/index.php?topic=106391.0 ;
-https://bitcointalk.org/index.php?topic=435263.0
-and we'll stop at that for the sake of brevity.
-
-
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "Waxman, Daphna A."waxman
-Date: Mon, March 3, 2014 11:22 am
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "Waxman, Daphna A."waxman<br>
+Date: Mon, March 3, 2014 11:22 am<br>
 To:officeoffice
+
 Dear Mr. Popescu,
 
 I have attached a formal letter requesting that MPEx voluntarily provide certain information and
@@ -221,9 +230,9 @@ Thank you,
 Daphna Waxman
 
 
-Subject: Message for Mircea Popescu from U.S. SEC
-From: "'officeoffice
-Date: Tue, March 4, 2014 7:43 am
+Subject: Message for Mircea Popescu from U.S. SEC<br>
+From: "'officeoffice<br>
+Date: Tue, March 4, 2014 7:43 am<br>
 To: "Waxman, Daphna A."waxman
 
 While I appreciate your efforts to qualify for an information exchange agreement with MPEx, as
@@ -246,10 +255,10 @@ This will both provide a solid basis for future, continued cooperation as well a
 insulate either party from unwelcome legal and technical complexities. Kindly let me know as soon
 as you are ready to proceed.
 
-All the best,
+All the best,<br>
 Mircea Popescu
 
-```
+
 
 In short : Bitcoin is a sovereign. Accepting this matter of fact is a sine qua non prerequisite for playing. No exceptions.
 
