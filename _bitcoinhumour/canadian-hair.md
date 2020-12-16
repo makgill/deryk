@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: Is that the Canadian with bad hair?
-source: Courlistener
+source: CourtListener
 sourcedate: 13 January 2020
 archive: https://www.courtlistener.com/recap/gov.uscourts.flsd.521536/gov.uscourts.flsd.521536.488.17.pdf
 excerpt: Hahahahahaha
