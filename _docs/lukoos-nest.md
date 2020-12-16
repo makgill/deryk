@@ -2,6 +2,8 @@
 layout: plain
 title: One Flew Over the Lukoo's Nest
 excerpt: An anthology of the funniest (wackiest) quotes from Bitcoin Core developer Luke Dashjr. Presented with no ill will and only good cheer towards our Catholic friend.
+categories: bitcoin
+location: bh
 ---
 
 This "anthology" is not meant to shame Luke Dashjr or otherwise incite any actions towards him whatsoever. As far as I can see, Luke is actually a nice person, a good father, and an excellent coder (despite having insane economic ideas about Bitcoin). People should not be punished for wrong-think. Learn to laugh instead at these quotes with good charity towards the possibility of nuance that doesn't come through.
