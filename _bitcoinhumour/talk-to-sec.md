@@ -195,16 +195,16 @@ possible.
 All the best,<br>
 Mircea Popescu
 
-* References :
-- exposing the Pirate scam : <br>
+References :
+exposing the Pirate scam : <br>
 https://bitcointalk.org/index.php?topic=50822.msg854918#msg854918 <br>
-- exposing the Patrick Harnett set of scams : <br>
+exposing the Patrick Harnett set of scams : <br>
 https://bitcointalk.org/index.php?topic=121915.0 <br>
 (unfortunately the Australian equivalent of the US SEC has been uniquely <br>
 unhelpful in this matter so far). <br>
-- exposing the Labcoin set of scams : <br>
+exposing the Labcoin set of scams : <br>
 http://trilema.com/2013/the-anatomy-of-a-scam/ <br>
-- general informative bulletins as warranted by market conditions : <br>
+general informative bulletins as warranted by market conditions : <br>
 https://bitcointalk.org/index.php?topic=106391.0 ; <br>
 https://bitcointalk.org/index.php?topic=435263.0 <br>
 and we'll stop at that for the sake of brevity. 
