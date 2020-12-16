@@ -32,3 +32,8 @@ This is my attempt to prevent the kind of watered-down academic history of Bitco
 </div>
 
 {% endfor %}  
+
+
+## Disclaimer and Legal Notice
+
+If you feel that the archived content on this page somehow violates your rights, please let me know which piece of content you want removed and the justification for its removal.
