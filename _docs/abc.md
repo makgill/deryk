@@ -6,6 +6,7 @@ sourcedate: 03 November 2018
 archive: https://archive.is/LG58q
 excerpt: Craig Wright is...uh...angry
 categories: bitcoin
+location: bitcoinhumor
 ---
 
 ```
