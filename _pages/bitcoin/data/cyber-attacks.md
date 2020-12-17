@@ -77,7 +77,7 @@ And so, I documented it some of the real story, starting with a data set of all 
 ><cite><a href="https://www.reddit.com/r/btc/comments/3ygiso/the_ddos_on_pools_is_on_again/cyda0pb/">P2XTPool</a></cite>
 
 >It is definitely related to the BIP101 voting. Our support just recieved message stating: "Stop BIP101 mining and DDoS will stop too."
-><cite><a href="https://www.reddit.com/r/Bitcoin/comments/3j6amu/slush_pool_under_ddos_attack/cun1lhq/>SlushPool employee</a></cite>
+><cite><a href="https://www.reddit.com/r/Bitcoin/comments/3j6amu/slush_pool_under_ddos_attack/cun1lhq/">SlushPool employee</a></cite>
     
 >Alena Vranova, director of SatoshiLabs, said the company received a message saying that the attack would end once it turned off the ability for customers to declare support for Andresen’s idea. SatoshiLabs was forced to comply with that demand because the attack was powerful enough to cause connectivity problems for some Slush Pool miners. “This is a destructive behavior,” says Vranova. “I would admire someone who stands out, explains, and promotes his idea. This is just cowardly.”
 ><cite><a href="https://www.technologyreview.com/2015/09/08/166310/allegations-of-dirty-tricks-as-effort-to-rescue-bitcoin-falters/">MIT Technology Review</a></cite>
