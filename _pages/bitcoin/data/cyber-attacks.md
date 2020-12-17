@@ -65,6 +65,8 @@ And so, I documented it some of the real story, starting with a data set of all 
 
 ## Appendix
 
+### What people said at the time
+
 >The purpose of this attack is to intimidate anyone running Bitcoin Classic. It’s the same modus operandi we saw with Bitcoin XT. This comes at a time when miners have started to mine Bitcoin Classic blocks and already have way more support than XT ever had. Someone, or some people, are buying DDOS attacks towards Classic in an attempt to stop the growth of Classic nodes and blocks. Some Core developers, and Adam Back, have stated that ‘Bitcoin is not a democracy’, while this description is correct for the current governance model; with the censorship, character assassinations, attacks against anyone who disagrees with the party line and sabotage against free choice, the current governance is more similar to North Korea
 ><cite><a href="https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/">Emil Oldenburg</a></cite>
 
