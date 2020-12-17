@@ -8,6 +8,8 @@ permalink: bitcoin/data/cyber-attacks
 
 <p class="notebox">Originally posted on 15 December 2020. Updated when new data is found.</p>
 
+This database documents the known alleged cyber attacks that took place between roughly 2015 and 2018 during the various attempts to scale Bitcoin (Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin Cash, and Segwit 2X).
+
 
 
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
