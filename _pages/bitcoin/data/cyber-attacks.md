@@ -8,10 +8,6 @@ permalink: bitcoin/data/cyber-attacks
 
 <p class="notebox">Originally posted on 15 December 2020. Updated when new data is found.</p>
 
-## Summary
-
-This database documents the known alleged cyber attacks that took place between roughly 2015 and 2018 during the various attempts to scale Bitcoin (Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin Cash, and Segwit 2X).
-
 ## Introduction
 
 The somewhat idyllic early years of Bitcoin, during which time nearly everyone agreed on the proper way to scale the Bitcoin protocol in the long term, came to an end around 2013 or 2014 depending on whom you ask. Newcomers to the scene, venture capital with dubious incentives, government provacateurs, and worse are all alleged to have played a role in lighting the fires of what many have called the Bitcoin Scaling Wars, which saw two factions emerge: the small-blockers and the big-blockers, who believed in limiting or raising the Bitcoin blocksize respectively. The name does it justice, because what began as debates in online forums among people with seemingly shared goals and overlapping philosophies of life quickly escalated in 2015 to information and often criminal cyber warfare from the small-block faction of Bitcoin, that, believing any attempt to raise the blocksize of Bitcoin to be an attack on Bitcoin itself, became unscrupulous and relentless in their willingness to fight. 
@@ -21,6 +17,8 @@ Arguably, they won. Between 2015 and 2018 there were over 30 alleged cyber attac
 Having participated in these "scaling wars" myself, I have been fascinated by the way in which popular Bitcoin history on Twitter and in the media has ignored and often rewritten what actually happened. At the time I never could have believed that the laughable idea that the scaling wars were fought on *technical* and *economic* grounds would become orthodox history for many in the future. Now I see that what we experienced was living through a proof for the old platitude "history is written by the victors."
 
 And so, I documented it, starting with a data set of all the known alleged cyber attacks that took place during the years of 2015-2018.
+
+## Alleged Cyber Attacks Against Scaling Bitcoin (2015-2018)
 
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
