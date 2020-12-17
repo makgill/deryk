@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Known Alleged Cyber Attacks and Threats Against Scaling Bitcoin
+title: Alleged Cyber Attacks and Threats Against Scaling Bitcoin
 ---
 
 # Known Alleged Cyber Attacks and Threats Against Scaling Bitcoin
