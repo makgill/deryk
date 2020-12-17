@@ -72,7 +72,7 @@ And so, I documented it some of the real story, starting with a data set of all 
 ><cite><a href="https://www.reddit.com/r/btc/comments/7crk24/bitcoincom_is_currently_being_ddosed_when/dpsdbmh/">u/BitcoinIsTehFuture</a></cite>
 
 >If XT and Bip101 "was abandoned by the community" and a "complete failure" how come Core supporters need to attack us?
-><cite><a href="https://www.reddit.com/r/btc/comments/3ygiso/the_ddos_on_pools_is_on_again/cyda0pb/"P2XTPool</a></cite>
+><cite><a href="https://www.reddit.com/r/btc/comments/3ygiso/the_ddos_on_pools_is_on_again/cyda0pb/">P2XTPool</a></cite>
 
 ## Support or Contribute
 
