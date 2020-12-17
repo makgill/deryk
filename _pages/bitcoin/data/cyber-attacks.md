@@ -10,6 +10,12 @@ permalink: bitcoin/data/cyber-attacks
 
 ## Introduction
 
+<img src="https://i.imgur.com/LM481bx.png" style="
+    float: right;
+    max-width: 300px;
+    margin: 10px;
+">
+
 The somewhat idyllic early years of Bitcoin, during which time nearly everyone agreed on the proper way to scale the Bitcoin protocol in the long term, came to an end around 2013 or 2014 depending on whom you ask. Newcomers to the scene, venture capital with dubious incentives, government provacateurs, and worse are all alleged to have played a role in lighting the fires of what many have called the Bitcoin Scaling Wars, which saw two factions emerge: the small-blockers and the big-blockers, who believed in limiting or raising the Bitcoin blocksize respectively. The name does it justice, because what began as debates in online forums among people with seemingly shared goals and overlapping philosophies of life quickly escalated in 2015 to information and often criminal cyber warfare from the small-block faction of Bitcoin, that, believing any attempt to raise the blocksize of Bitcoin to be an attack on Bitcoin itself, became unscrupulous and relentless in their willingness to fight. 
 
 Arguably, they won. Between 2015 and 2018 there were over 30 alleged cyber attacks on companies and node implementations who supported the big-block roadmap, with many more reports that have been lost to link-rot and perhaps many more that went unreported. The attacks had a chilling effect on the willingness of people with substantial skin in the game to put themselves out there in support of raising the blocksize, no matter their personal beliefs. Despite four attempts to raise the blocksize on the BTC chain, the big-blockers ultimately had to give up and create their own fork, losing nearly a decade of hard work, millions of dollars in infastructure, and the network effect and branding that the BTC chain enjoys.
