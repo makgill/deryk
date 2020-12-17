@@ -61,7 +61,16 @@ And so, I documented it some of the real story, starting with a data set of all 
 | 17 November 2017  | Antpool                          | DDoS         | [Antpool has been sufferring large DDoS attack today which may cause our website outline.](https://twitter.com/AntPoolofficial/status/931464481326088192?s=20)                                                                                                                                                                                                                                                     |
 | 20 November 2017  | Bitcoin.com                      | Sybil        | [](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)[The bitcoin.com wallet app is under attack by /r/bitcoin. Please help to counter it.](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)                                                                                                                                   |
 | 7 April 2018      | @Bitcoin                         | Sybil        | [](https://www.reddit.com/r/btc/comments/8anmkg/bitcoin_suspended_on_twitter/)[@Bitcoin suspended on Twitter](https://www.reddit.com/r/btc/comments/8anmkg/bitcoin_suspended_on_twitter/)                                                                                                                                                                                                                          |
+## Appendix
 
+>The purpose of this attack is to intimidate anyone running Bitcoin Classic. It’s the same modus operandi we saw with Bitcoin XT. This comes at a time when miners have started to mine Bitcoin Classic blocks and already have way more support than XT ever had. Someone, or some people, are buying DDOS attacks towards Classic in an attempt to stop the growth of Classic nodes and blocks. Some Core developers, and Adam Back, have stated that ‘Bitcoin is not a democracy’, while this description is correct for the current governance model; with the censorship, character assassinations, attacks against anyone who disagrees with the party line and sabotage against free choice, the current governance is more similar to North Korea
+><cite><a href="https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/">Emil Oldenburg</a></cite>
+
+>Funny how the DDoS attacks are never on Core-related services. They are always directed to Bitcoin.com, Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin Cash, r/btc. These guys are cyber warfare criminals, corrupted in every single way they can muster.
+><cite><a href="https://www.reddit.com/r/btc/comments/7crk24/bitcoincom_is_currently_being_ddosed_when/dpsdbmh/">u/BitcoinIsTehFuture</a></cite>
+
+>If XT and Bip101 "was abandoned by the community" and a "complete failure" how come Core supporters need to attack us?
+><cite><a href="https://www.reddit.com/r/btc/comments/3ygiso/the_ddos_on_pools_is_on_again/cyda0pb/"P2XTPool</a></cite>
 
 ## Support or Contribute
 
