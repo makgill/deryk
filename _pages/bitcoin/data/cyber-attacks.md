@@ -4,9 +4,11 @@ title: Alleged Cyber Attacks Against Scaling Bitcoin
 permalink: bitcoin/data/cyber-attacks
 ---
 
+# Alleged Cyber Attacks Against Scaling Bitcoin
+
 <p class="notebox">Originally posted on 15 December 2020. Updated when new data is found.</p>
 
-# Alleged Cyber Attacks Against Scaling Bitcoin
+
 
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
