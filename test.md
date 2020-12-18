@@ -3,7 +3,9 @@ layout: default
 long: true
 ---
 
-# This is a test page
+# Explain Bitcoin's Scaling Problem Like I'm Five
+
+There was a far away land called Bitcoinia, and in Bitcoinia there was a strange phenonoma--the people of Bitcoinia grew apples and.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
