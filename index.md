@@ -13,7 +13,7 @@ title: Home
 <div><div class="pd">
   <span class="date" style="display:block;">{{ document.date | date: "%m / %y" }}</span></div>
 
-  {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+  {% if document.layout == "default" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
          </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
          </span> 
          
