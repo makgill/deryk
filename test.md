@@ -1,5 +1,6 @@
 ---
 layout: default
+long: true
 ---
 
 # This is a test page
