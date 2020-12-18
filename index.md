@@ -3,12 +3,29 @@ layout: home
 title: Home
 ---
 
-## Bitcoin and Cypherpunk Anthropology
 
-### [Bitcoin Humour File](https://makgill.github.io/deryk/bitcoin/humour) (2020)
+<div class=par>
 
-My attempt to prevent the kind of watered-down academic history of Bitcoin that will no-doubt be written by chronicling content and events that are so shameful, wacky or awesome that they’re funny.
+{% assign documents = site.documents | sort: 'date' | reverse %}
 
-### [Alleged Cyber Attacks Against Scaling Bitcoin](https://makgill.github.io/deryk/bitcoin/data/cyber-attacks) (2020)
+{% for document in documents limit:500 %}
+  {% if document.layout == 'default' %}
+<div><div class="pd">
+  <span class="date" style="display:block;">{{ document.date | date: "%m / %y" }}</span></div>
 
-This database documents the known alleged cyber attacks that took place between roughly 2015 and 2018 during the various attempts to scale Bitcoin (Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin Cash, and Segwit 2X).
+  {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
+         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
+         </span> 
+         
+{% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
+         </span>  {% endif %}
+       
+       
+     
+      
+         
+        
+ </div> 
+  {% endif %}   
+{% endfor %}
+
