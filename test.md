@@ -25,11 +25,9 @@ And as the wise man had predicted, some people moved from Bitcoinia to surroundi
 
 Another meeting was convened and again, the wise man pointed out that all they needed to do was to get another mailman and cart and the problem would be solved. But this time the wise man was kicked out of the meeting, because while everyone was worried about the problem they faced, they were not allowed to discuss it anymore before more people agreed. A few people rose in his defense and they were removed from the meeting as well. The wiseman [left](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7) Bitcoinia never to return, while some of his followers took their talents to the new mail services that were quickly sprouting up all over the country.
 
-Then Gregory Maxwell stood and promised the townspeople that his solution was almost completed, if only they would be patient, and that the growing backlog of mail that was sitting on their shelves was a sign that their mail service was working properly. Since nobody could disagree without being removed from the meeting, nobodoy did. 
+Then Gregory Maxwell stood and promised the townspeople that his solution was almost completed, if only they would be patient, and that the growing backlog of mail that was sitting on their shelves was regardless a sign that their mail service was working properly. In fact, a celebration was in order. Since nobody could disagree without being removed from the meeting, and the wiseman and many of his followers had left Bitcoinia, nobody did. 
 
-It happened that, one day, the mail was so backed up that it cost far more than most packages were worth to send it, and it was going to take days to catch up. On this day, Gregory Maxwell threw a large party in celebration and promised the imminent arrival of his teleportation device.
-
-Weeks turned to months. Months turned to years. Bitconia mail was very popular still because of the long legacy of quality service it had in its past,Gregory Maxwell and his supporters released a prototype of their teleporation device and it barely worked. 
+The people of Bitcoinia spent many years waiting on Gregory Maxwell's teleportation device, but it never really worked.
 
 
 
