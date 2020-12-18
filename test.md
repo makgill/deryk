@@ -5,7 +5,7 @@ long: true
 
 # The Parable of Bitcoinia
 
-There was a far away town called Bitcoinia, and in Bitcoinia there was a strange phenonoma--all the people of Bitcoinia grew apples but they only had one shared apple cart with which to take their apples to the city market. Now, in the days when Bitcoinia was a tiny village of two or three homes, this had not been a problem because the apple cart had never been full, but now Bitcoinia was a thriving town and the people found that the apple cart would soon be unable to carry anymore apples.
+There was a far away town called Bitcoinia, and in Bitcoinia there was a strange phenonoma--all the people of Bitcoinia grew apples but they only had [one]https://www.reddit.com/r/Bitcoin/comments/63859l/github_commit_where_satoshi_added_the_block_size/) shared apple cart with which to take their apples to the city market. Now, in the days when Bitcoinia was a tiny village of two or three homes, this had not been a problem because the apple cart had never been full, but now Bitcoinia was a thriving town and the people found that the apple cart would soon be unable to carry anymore apples.
 
 One day a wise man pointed out that the town ought to invest in more apple carts soon before they ran out of space in their only cart. Even just one more cart would allow the people to bring twice the amount of apples to market on each trip. This would surely mean, said the wise man, that the townspeople would be more productive and make more money at the market. And if they didn't do it, he warned, they would soon have apples rotting on the trees that they couldn't take to the maket.
 
