@@ -19,8 +19,6 @@ Having participated in these "scaling wars" myself, I have been fascinated by th
 
 And so, I documented it some of the real story, starting with a data set of all the known alleged cyber attacks that took place during the years of 2015-2018, as a step towards demonstrating that it wasn't technical or economic superiority that allowed the small-blockers to retain control of Bitcoin, but their willingness to do whatever it took to keep the other side from even getting off the ground.
 
-## Alleged Cyber Attacks Against Scaling Bitcoin (2015-2018)
-
 
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
