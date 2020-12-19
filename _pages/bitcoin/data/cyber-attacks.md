@@ -2,6 +2,7 @@
 layout: default
 title: Alleged Cyber Attacks Against Scaling Bitcoin
 permalink: bitcoin/data/cyber-attacks
+long: true
 ---
 
 # Alleged Cyber Attacks Against Scaling Bitcoin
