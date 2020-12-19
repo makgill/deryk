@@ -9,7 +9,7 @@ title: Home
 
  {% for post in site.posts %}
 
-<div class="pd"> <time datetime="{{ post.date | date: "%m/%Y" }}">{{ post.date | date: "%m/%Y" }}</time></div>
+<div class="pd"> <time datetime="{{ post.date | date: "%m/%-Y" }}">{{ post.date | date: "%m/%Y" }}</time></div>
 <a href="/deryk{{ post.url }}">
         {{ post.title }}
       </a></div>
