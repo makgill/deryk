@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Bitcoin Opsec
+categories:bitcoin
 ---
 
-# Bitcoin Opsec
+# Bitcoin Opsec 
 
-You bought Bitcoin a while ago and now you're rich. Good for you. You had the foresight to see where this thing was
-really going and the will to act on it despite the haters and the scammers. Unfortunately that's the only good news I have for you because chances are you're <span>f*cked.</span>
+You bought Bitcoin a while ago and now you're starting to get rich. Good for you. You had the foresight to see where this thing was
+really going and the will to act on it despite the haters and the scammers. Unfortunately that's the only good news I have for you because chances are you're going to be <span>f*cked</span> unless you start taking your opsec seriously. It might already be too late but if it's not, here's what you need to do.
 
-Do I have your attention? This is part one of a two part guide. Part one explains how to stop yourself from getting <span>f*cked</span> in the first place or stop making the same mistakes
-you've been making all along. Part two will attempt to explain how to <span>unf*ck</span> yourself.
+1. You don't talk about how much Bitcoin you have. I can't believe how many people I see doing this 
+online. By declaring your Bitcoin wealth publicly, you're putting a target on your back for IRS demons, scammers and worse. In the past, you weren't a target because maybe you didn't have a lot of Bitcoin. But soon, a very few Bitcoin might be worth *a lot* of money. Everyone who owns Bitcoin before a hyperbitcoinization event is a target. You need to stop. YOU ARE POOR. VERY POOR. Maybe you once had some Bitcoin but you spent most of it or lost it when your laptop fell off your friend's boat on July 4th. The point is it is better to be seen as poor on Twitter than to be extorted by IRS agents or killed by Russian henchmen.
 
-It was one thing in the past when your Bitcoin Barons were the rare group who were rich for possesing several thousand Bitcoin. It's quite another
-when every random idiot you talked to on Twitter who owned between 1 and 10 Bitcoin suddenly has a sizeable fortune too. We've probably
-seen nothing yet.
-
-
+2.
