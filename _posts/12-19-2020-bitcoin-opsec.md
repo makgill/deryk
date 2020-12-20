@@ -1,7 +1,9 @@
 ---
 layout: default
-title:
+title: Bitcoin Opsec
 ---
+
+# Bitcoin Opsec
 
 You bought Bitcoin a while ago and now you're rich. Good for you. You had the foresight to see where this thing was
 really going and the will to act on it. Unfortunately that's the only good news I have for you because chances are you're f*cked.
