@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bitcoin Opsec
+title: Bitcoin Opsec Rant
 categories: bitcoin
 long: true
 ---
 
-# Bitcoin Opsec 
+# Bitcoin Opsec Rant
 
 You bought Bitcoin a while ago and now you're starting to get rich. Good for you. You had the foresight to see where this thing was
 really going and the will to act on it despite the [haters](https://99bitcoins.com/bitcoin-obituaries/) and the scammers. Unfortunately that's the only good news I have for you because chances are you're going to be <span>f*cked</span> unless you start taking your opsec seriously. It might already be too late but if it's not, here's what you need to do.
