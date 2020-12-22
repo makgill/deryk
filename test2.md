@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memetic Warefare in a Dim Age
+title: Meme Warefare in a Dim Age
 ---
 
 # Memetic Warefare in a Dim Age
